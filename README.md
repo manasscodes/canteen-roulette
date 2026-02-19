@@ -11,8 +11,6 @@ Built originally as a college hackathon project for Somaiya Vidyavihar’s cante
 
 Tech stack: **React + TypeScript + Vite + Firebase** (Auth, Firestore, Hosting) with Tailwind and an Inter‑based design system.  
 
-**Disclaimer:** This is a hackathon‑stage project. The order system is a **simulation only** (no real payments or integrations with actual vendors).
-
 ## Main features
 
 - **Roulette** – Slot‑machine picker with on‑campus / off‑campus modes, rarity‑weighted items, and a “near me” search via Google Maps for general use.  
